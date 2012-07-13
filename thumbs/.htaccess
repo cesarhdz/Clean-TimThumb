@@ -1,0 +1,4 @@
+# Regla que permite mostrar el css en php
+RewriteEngine on
+RewriteBase	/libs/images/thumbs/
+RewriteRule ^(\w+)+.(jpg)|(jpeg)|(png)|(gif) index.php [nc]

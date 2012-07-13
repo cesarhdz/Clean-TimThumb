@@ -1,0 +1,5 @@
+*.jpg
+*.png
+*.gif
+thumbs/cache/*
+!thumbs/cache/index.html
