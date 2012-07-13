@@ -1,5 +1,6 @@
 *.jpg
 *.png
 *.gif
+*.ini
 thumbs/cache/*
 !thumbs/cache/index.html
