@@ -1,4 +1,4 @@
-Clean TimThumb
+# Clean TimThumb
 
 This script allows to load images using [TimThumb] using cleaner URLs, Using this script instead of passing the `src` param in the url, you call the image you want using it's name and extension, e.g.
 
